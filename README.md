@@ -6,3 +6,5 @@ Stanford Course Projects: Basel Problem, Infinite Square Well, Constructibility
 **Infinite Square Well (Math 131P)**: General application of Fourier and Sturm-Liouville theory to provide a solution to the infinite square well problem from elementary Quantum Mechanics in 3D. Specific derivation for infinite well, and a brief discussion on generalization based on Sturm-Liouville theory.
 
 **Constructibility (Math 120)**: Proof of the impossibility of trisecting a general angle, or doubling the cube using just a straightedge and compass. Using general results from geometry and algebraic results for roots of polynomials with real coefficients, build the constructible numbers and show that either of these problems involves inconstructible numbers.
+
+**Research PRL (Physics 191)**: Physics review letter on the research I did from April to September of 2023. Contains detailed information on the reasoning behind the research and the actual work done during the fabrication, imaging, and setup of the experiment.
